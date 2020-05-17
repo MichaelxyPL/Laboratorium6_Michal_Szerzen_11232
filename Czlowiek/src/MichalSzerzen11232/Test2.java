@@ -17,7 +17,7 @@ public class Test2 {
     
     
 
-    Collections.sort(osoby);
+    Collections.sort(osoby); //ta komenda powinna sortować ale niestety wypisane wartości są niezmienione
 
     
     for(Mezczyzna z: osoby)
